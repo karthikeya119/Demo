@@ -1,3 +1,3 @@
 # Demo
-This is my first Git Repsitory
+This is my first Git Repsitory.
 Author-Karthikeya
